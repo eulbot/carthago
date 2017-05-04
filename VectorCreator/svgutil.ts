@@ -5,4 +5,4 @@
     }
 }
 
-export { SVGUtil };
+export default SVGUtil;

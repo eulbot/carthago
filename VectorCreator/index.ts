@@ -1,4 +1,4 @@
-﻿import { SVGUtil } from './svgutil'
+﻿import SVGUtil from './svgutil'
 
 let s = new SVGUtil();
 let ps = s.getRandom();

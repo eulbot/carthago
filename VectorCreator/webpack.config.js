@@ -1,4 +1,5 @@
 ﻿var webpack = require("webpack");
+
 module.exports = {
     entry: './index.ts',
 	output: {
