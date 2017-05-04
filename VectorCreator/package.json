@@ -1,0 +1,21 @@
+{
+  "name": "vector-creator",
+  "version": "0.0.0",
+  "description": "VectorCreator",
+  "main": "app.js",
+  "author": {
+    "name": "Ulrich"
+  },
+  "scripts": {
+    "build": "webpack --display-error-details"
+  },
+  "dependencies": {
+    "@types/jquery": "^2.0.41",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.2.1",
+    "ts-loader": "^2.0.3",
+    "webpack": "^2.4.1"
+  }
+}
